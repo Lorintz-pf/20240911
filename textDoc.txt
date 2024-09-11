@@ -1,2 +1,6 @@
 Első sor átíárása main ágon megint
+
+Második sor átírása branch-4en
+
 Második sor megpiszkálása Githubon keresztül
+
