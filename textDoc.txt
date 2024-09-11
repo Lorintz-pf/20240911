@@ -1,1 +1,1 @@
-Első sor a main branchen
+Első sor megváltoztatása branch2-en
