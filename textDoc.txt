@@ -1,1 +1,1 @@
-Első sor megváltoztatása branch2-en
+Első sor visszaírása main ágban
